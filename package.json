@@ -1,0 +1,12 @@
+{
+  "name": "bipolar_tracker",
+  "version": "1.0.0",
+  "description": "A tracker for BiPolar mood swings",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Brian O'Donovan",
+  "license": "Apache License, Version 2.0"
+}
